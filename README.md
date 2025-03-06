@@ -72,9 +72,9 @@ Package and run applications in isolated containers,
 ## Backend Setup
 1. Clone the repository:
 ```bash
-    git clone https://github.com/balajihambeere/raptai.git
-    cd raptai
-    cd fast-next-app/backend
+    git clone https://github.com/zudyog/zudyog.git
+    cd zudyog
+    cd zudyog/backend
 ```
 2. Install dependencies:
 ```bash
@@ -91,7 +91,7 @@ The API should now be running at http://localhost:3200.
 ## Frontend Setup
 1. Navigate to the frontend directory:
 ```bash
-    cd ../frontend
+    cd zudyog/frontend
 ```
 
 2. Install dependencies:
