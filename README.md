@@ -1,6 +1,8 @@
-# Full Stack Application
+# Zudyog
 
-This repository contains a full-stack web application built using modern technologies for both the frontend and backend. The application is designed to be scalable, maintainable, and efficient, leveraging a robust tech stack that includes React.js, Next.js, Material-UI, Redux-Toolkit, Node.js, Express.Js and Mongodb.
+Welcome to Zudyog, a open source project for your one-stop platform for jobs, business growth, and professional development. At Zudyog, we bridge the gap between job seekers and recruiters, freelancers and businesses, and skill development and career opportunities. Our mission is to empower individuals and organizations with the right opportunities, skills, and resources to thrive in a competitive world.
+
+With cutting-edge technology and a user-friendly interface, Zudyog.com provides seamless access to job listings, freelance gigs, career development resources, and business networking opportunities. Whether you're looking for your dream job, hiring top talent, or seeking to upskill, Zudyog is your trusted partner in professional success.
 
 ## Tech Stack
 
