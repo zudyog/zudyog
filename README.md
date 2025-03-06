@@ -134,7 +134,7 @@ Provides API documentation, which can be accessed at:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU General Public License License. See the LICENSE file for details.
 
 ## Contact
 
