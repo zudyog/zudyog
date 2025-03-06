@@ -4,6 +4,17 @@ Welcome to Zudyog, a open source project for your one-stop platform for jobs, bu
 
 With cutting-edge technology and a user-friendly interface, Zudyog.com provides seamless access to job listings, freelance gigs, career development resources, and business networking opportunities. Whether you're looking for your dream job, hiring top talent, or seeking to upskill, Zudyog is your trusted partner in professional success.
 
+## Vision Statement
+To become a leading digital ecosystem for career growth, employment opportunities, and business networking, fostering innovation, skill development, and economic empowerment worldwide.
+
+## Mission Statement
+
+- To connect job seekers with top employers through an advanced, AI-powered job-matching platform.
+- To support freelancers and businesses in finding the right talent and opportunities.
+- To provide upskilling programs and career development resources for professionals.
+- To enable startups and businesses to grow through networking and collaboration.
+- To simplify the hiring process with innovative recruitment solutions.
+
 ## Tech Stack
 
 ### Frontend
