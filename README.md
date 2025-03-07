@@ -85,7 +85,7 @@ This project has adopted the Open Source Code of Conduct. For more information, 
 
 ## License
 
-This project is licensed under the GNU General Public License License. See the [LICENSE](./LICENSE.md) file for details.
+This project is licensed under the GNU General Public License License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
