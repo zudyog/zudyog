@@ -15,12 +15,12 @@ To become a leading digital ecosystem for career growth, employment opportunitie
 - To enable startups and businesses to grow through networking and collaboration.
 - To simplify the hiring process with innovative recruitment solutions.
 
-## Ong oing Features
+## Ongoing Features
 - **Job Portal**: Access thousands of job listings tailored to your skills and preferences.
 
 ## Tech Stack
 
-For details on Tech Stack to this repository, see the [contributing guide](./TECH_STACK.md).
+For details on Tech Stack to this repository, see the [Tech Stack info](./TECH_STACK.md).
 
 
 ## Installation and Setup
@@ -29,7 +29,7 @@ For details on Tech Stack to this repository, see the [contributing guide](./TEC
 
 - Ensure you have the following installed:
 - Node.js 20.0+ (for backend and frontend development)
-- Mongodb (for database management)
+- Docker Instructions [Here](https://docs.docker.com/desktop/)
 
 ## Backend Setup
 1. Clone the repository:
