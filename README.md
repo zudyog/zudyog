@@ -1,6 +1,6 @@
 # zUdyog
 
-Welcome to Zudyog, a open source project for your one-stop platform for jobs, business growth, and professional development. At Zudyog, we bridge the gap between job seekers and recruiters, freelancers and businesses, and skill development and career opportunities. Our mission is to empower individuals and organizations with the right opportunities, skills, and resources to thrive in a competitive world.
+Welcome to zUdyog, a open source project for your one-stop platform for jobs, business growth, and professional development. At Zudyog, we bridge the gap between job seekers and recruiters, freelancers and businesses, and skill development and career opportunities. Our mission is to empower individuals and organizations with the right opportunities, skills, and resources to thrive in a competitive world.
 
 With cutting-edge technology and a user-friendly interface, Zudyog.com provides seamless access to job listings, freelance gigs, career development resources, and business networking opportunities. Whether you're looking for your dream job, hiring top talent, or seeking to upskill, Zudyog is your trusted partner in professional success.
 
